@@ -10,7 +10,7 @@ By shy
 - 自动切薯条、炸薯条
 - 自动切沙威玛
 - 自动卷饼并装进袋子
-- 
+
 # Let's speak English!
 ## Are you ready to become a Shawarma legend?
 Features that have been implemented so far:
